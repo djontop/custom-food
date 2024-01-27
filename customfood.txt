@@ -1,2 +1,2 @@
 Version: true
-CustomMessage: ❗[DJ-Custom Food Prop]❗ \n\nError : Your resource version is outdated. Please update your resource.
+CustomMessage: ❗[DJ-Custom Food Prop]❗ Script is updated - You are using the latest versione.
