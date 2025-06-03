@@ -1,4 +1,4 @@
 {
-    "changes": false,
+    "changes": true,
     "changelog": "🔥 **Custom Food Script - Changelog v1.7.0** 🔥\n\n🛠 **Changes & Fixes:**\n✅ Optimized the script for better performance ⚡\n🐛 Added more debug to check details about action 🔍\n📊 Added support for **ox_lib progressbar** 📈\n⭕ Added support for **circle progressbar** 🔄\n📦 Added support for **QBCore progressbar** 📂\n\n📥 **Update the script from Keymaster!** 🔑"
 }
