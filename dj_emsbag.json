@@ -1,0 +1,16 @@
+{
+  "latest_version": "2.0.0",
+
+  "changelogs": {
+    "1.0.0": [
+      "- Added the EMS Hand Bag item for paramedics.",
+      "- Fixed an issue where medical supplies would not save correctly in the bag.",
+      "- Improved item weight distribution for balance and realism."
+    ],
+    "2.0.0": [
+      "- Added a custom input system allowing EMS to enter and purchase specific quantities.",
+      "- Optimized overall performance for smoother interactions.",
+      "- Fixed several bugs related to item duplication and inventory syncing."
+    ]
+  }
+}
